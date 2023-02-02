@@ -27,5 +27,12 @@ from parts inner join inventory_parts using(part_num)
 inner join part_categories on parts.part_cat_id = part_categories.id 
 group by part_cat_id having sum(quantity) < 11 order by total desc;
 
-
-
+Explicação
+1 - Seleciona duas colunas: "Categorias" (nome da categoria da peça) e "Total" (soma da quantidade de peças)
+2 - A partir das tabelas "parts", "inventory_parts" e "part_categories", ele realiza três junções INNER JOINs:
+    "parts" e "inventory_parts" usando a coluna "part_num"
+    "parts" e "part_categories" usando a coluna "part_cat_id"
+3 - Agrupa as informações por "part_cat_id" (categoria da peça)
+4 - Utiliza a cláusula HAVING para filtrar apenas as categorias cuja soma da quantidade de peças seja menor que 11
+5 - Ordena as informações pela coluna "Total" em ordem decrescente.
+- O resultado desta consulta é uma tabela que mostra o nome das categorias e o total de peças para cada categoria, filtradas por aquelas com somente uma quantidade total menor que 11 e ordenadas pela quantidade total em ordem decrescente
