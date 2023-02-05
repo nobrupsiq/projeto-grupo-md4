@@ -24,25 +24,33 @@
 
 <br>
 
-> 1° Quais são os sets mais antigos ?
+<h2><i>1° Quais são os sets mais antigos ?</i></h2>
 
-- <img src='./src/querys/setsMaisAntigos.png'/>
+<img src='./src/querys/setsMaisAntigos.png'/>
 
-> 2° Quais sets de Star Wars possuem mais de 50 peças ?
+<br>
 
-- <img src='./src/querys/starWarsMaisDe50Peças.png'/>
+<h2><i>2° Quais sets de Star Wars possuem mais de 50 peças ?</i></h2>
 
-> 3° Consegue agrupar e exibir os sets dos Heróis da Marvel e DC ?
+<img src='./src/querys/starWarsMaisDe50Peças.png'/>
 
-- <img left='20px' src='./src/querys/agruparMarvel&DC.png'/>
+<br>
 
-> 4° Quais categorias possuem menos de 10 peças no inventário ?
+<h2><i>3° Consegue agrupar e exibir os sets dos Heróis da Marvel e DC ?</i></h2>
 
-- <img src='./src/querys/categoriaMenos10PeçasNoInventario.png'/>
+<img left='20px' src='./src/querys/agruparMarvel&DC.png'/>
 
-> 5° Quais são os sets com o maior número de peças ?
+<br>
 
-- <img src='./src/querys/setsMaiorNumeroDePecas.png'/>
+<h2><i>4° Quais categorias possuem menos de 10 peças no inventário ?</i></h2>
+
+<img src='./src/querys/categoriaMenos10PeçasNoInventario.png'/>
+
+<br>
+
+<h2><i>5° Quais são os sets com o maior número de peças ?</i></h2>
+
+<img src='./src/querys/setsMaiorNumeroDePecas.png'/>
 
 <br>
 <br>
