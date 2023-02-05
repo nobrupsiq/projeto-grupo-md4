@@ -58,7 +58,6 @@
 <br>
 
 🔗[Dados brutos disponibilizado pela Resilia Educação](https://drive.google.com/drive/folders/1XaXPQ8v6aqiDIX8AHYWAg_fyapJSBXco)
-⬅ CLIQUE
 
 <br>
 
