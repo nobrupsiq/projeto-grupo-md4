@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<img height="90px" src="./.github/aranha.png"/>
+
 <h1 align='center'>LEGO DATABASE</h1>
 
 <br>
@@ -53,6 +53,8 @@
 <img src='./src/querys/setsMaiorNumeroDePecas.png'/>
 
 <br>
+<br>
+
 <br>
 
 <img src="./.github/border-reverse.png" />
